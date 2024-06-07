@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
         O["User inputs text and hits the save button "]
     -->K["Event in the javascript code, prevents form's submit's default behavior"]
